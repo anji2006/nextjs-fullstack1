@@ -1,0 +1,12 @@
+.container{
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+}
+
+
+.active{
+    color: #0f0f0f;
+    background-color: #fff;
+    padding: 5px 10px 5px 10px;
+}

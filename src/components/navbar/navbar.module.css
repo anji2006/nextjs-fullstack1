@@ -1,0 +1,19 @@
+.container{
+    display: flex;
+    background-color: #0f0f0f;
+    align-items: center;
+    justify-content: space-between;
+    color: #fff;
+    height: 70px;
+}
+
+.navLinksContainer{
+    display: flex;
+    gap: 20px;
+}
+
+.login {
+    cursor: pointer;
+    padding: 10px;
+    font-weight: bold;
+}
